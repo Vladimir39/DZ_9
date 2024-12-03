@@ -1,4 +1,4 @@
 node_modules/
-config.json/
+config.json
 dist/
-.parcel-cache
+.parcel-cache/
