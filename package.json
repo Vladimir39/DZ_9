@@ -4,7 +4,7 @@
   "description": "dz_9",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npx parcel src/index.js"
   },
   "author": "",
   "license": "ISC",
